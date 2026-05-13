@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: VerifyDevFolderPartProject
+  gitServerName: p1
+  gitUrl: https://github.com/Pooja-Anand-IBM-2
+  gitUsername: Pooja-Anand-IBM-2
+  gitBranch: main
